@@ -13,6 +13,6 @@ Frontend'ga doir
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://www.batflat.org/themes/default/img/css-logo.png" width="30px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
-<code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
+<code><img src="https://iconage.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
