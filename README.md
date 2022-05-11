@@ -15,4 +15,4 @@ Frontend'ga doir
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVhI1iPnjgznUC_LoOkLQQl2IhPmNQgXFKw&usqp=CAU" width="30px"></code>
-<code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
+<code><img src="https://p1.hiclipart.com/preview/88/749/312/library-webbylab-react-react-native-javascript-nodejs-flutter-javascript-library-png-clipart.jpg" width="30px"></code>
