@@ -5,3 +5,10 @@ I am Frontend Develeper. <br />
 Check my telegram channel: <a href="https://t.me/frontendga_doir">
 Frontend'ga doir
 </a>
+
+<br />
+
+### Languages and tools I work with: 
+<code>
+  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png">
+  <code/>
