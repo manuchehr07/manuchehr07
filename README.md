@@ -2,5 +2,5 @@
 
 I am Frontend Develeper. <br />
 Check my telegram channel <a href="https://t.me/frontendga_doir">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9rWmC9Bt-1uP9XJ5V0bRJ6b85pzZmyVp0XA&usqp=CAU" width="40px">
+<img src="https://e7.pngegg.com/pngimages/63/424/png-clipart-computer-icons-scalable-graphics-telegram-logo-blue-angle.png" width="40px">
 </a>
