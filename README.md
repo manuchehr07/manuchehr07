@@ -10,5 +10,5 @@ Frontend'ga doir
 
 ### Languages and tools I work with: 
 <code>
-  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png">
+  <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" width="50px">
   <code/>
