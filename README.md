@@ -11,7 +11,7 @@ Frontend'ga doir
 ### Languages and tools I work with: 
 
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
-<code><img src="https://www.pinclipart.com/picdir/middle/495-4955744_css-logo-png-css-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://w7.pngwing.com/pngs/226/1010/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-others-miscellaneous-angle-rectangle-thumbnail.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
