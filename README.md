@@ -10,7 +10,7 @@ Frontend'ga doir
 
 ### Languages and tools I work with: 
 
-<code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://www.kindpng.com/picc/m/198-1985018_css-css-logo-website-css-logo-transparent-background.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/H/html5-with-wordmark-black-white-logo-A6222B77EC-seeklogo.com.png" width="30px"></code>
