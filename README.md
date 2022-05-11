@@ -16,3 +16,4 @@ Frontend'ga doir
 <code><img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVhI1iPnjgznUC_LoOkLQQl2IhPmNQgXFKw&usqp=CAU" width="30px"></code>
 <code><img src="https://p1.hiclipart.com/preview/88/749/312/library-webbylab-react-react-native-javascript-nodejs-flutter-javascript-library-png-clipart.jpg" width="30px"></code>
+<code><img src="https://banner2.cleanpng.com/20180530/ego/kisspng-redux-react-javascript-state-management-github-5b0f63b383e413.5993174015277352195402.jpg" width="30px"></code>
