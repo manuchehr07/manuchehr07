@@ -11,7 +11,7 @@ Frontend'ga doir
 ### Languages and tools I work with: 
 
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
-<code><img src="https://www.batflat.org/themes/default/img/css-logo.png" width="20px"></code>
+<code><img src="https://www.batflat.org/themes/default/img/css-logo.png" width="23px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/893/324/png-transparent-bootstrap-computer-icons-others-miscellaneous-angle-text.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJVhI1iPnjgznUC_LoOkLQQl2IhPmNQgXFKw&usqp=CAU" width="30px"></code>
